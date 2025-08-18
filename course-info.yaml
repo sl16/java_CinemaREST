@@ -8,8 +8,7 @@ summary: "<div>\r\n<div>You will practice concepts frequently tested in technica
   \ booth is old-fashioned, so let's create a special service for that! Make good\
   \ use of Spring and write a REST service that can show the available seats, sell\
   \ and refund tickets, and display the statistics of your venue. Pass me the popcorn,\
-  \ please!</p>\r\n</div><br/><br/>Learn more at <a href=\"https://hyperskill.org/projects/189?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card\"\
-  >https://hyperskill.org/projects/189</a>"
+  \ please!</p>\r\n</div>"
 programming_language: Java
 programming_language_version: 11
 content:

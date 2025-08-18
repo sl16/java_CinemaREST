@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CinemaRoom {
-    private int rows;
+    final private int rows;
     final private int columns;
     final private List<List<Seat>> seats;
 

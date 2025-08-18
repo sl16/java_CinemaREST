@@ -9,24 +9,24 @@ files:
   - name: build.gradle
     visible: true
     learner_created: false
-  - name: test/CinemaTests.java
-    visible: false
+  - name: src/cinema/SeatController.java
+    visible: true
+    learner_created: false
+  - name: src/cinema/CinemaRoom.java
+    visible: true
     learner_created: false
   - name: src/cinema/Seat.java
     visible: true
-    learner_created: true
-  - name: src/cinema/SeatResponse.java
-    visible: true
-    learner_created: true
-  - name: src/cinema/SeatController.java
-    visible: true
-    learner_created: true
+    learner_created: false
   - name: src/cinema/CinemaConfig.java
     visible: true
-    learner_created: true
-  - name: src/cinema/CinemaRoom.java
+    learner_created: false
+  - name: src/cinema/SeatResponse.java
     visible: true
-    learner_created: true
+    learner_created: false
+  - name: test/CinemaTests.java
+    visible: false
+    learner_created: false
 feedback_link: https://hyperskill.org/projects/189/stages/946/implement#comment
 status: Unchecked
 record: -1
