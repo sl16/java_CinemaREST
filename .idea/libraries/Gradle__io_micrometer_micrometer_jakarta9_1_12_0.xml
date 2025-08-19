@@ -4,7 +4,11 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-jakarta9/1.12.0/d44ea5a6e7f1c1de8a33827797d3f081f798d34/micrometer-jakarta9-1.12.0.jar!/" />
     </CLASSES>
-    <JAVADOC />
-    <SOURCES />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-jakarta9/1.12.0/79bafde6ce20212a84ef5db082cd97e39976f50e/micrometer-jakarta9-1.12.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-jakarta9/1.12.0/7e675b153a5a72c5d26545fbd35f666de65c55b9/micrometer-jakarta9-1.12.0-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

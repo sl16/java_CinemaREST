@@ -35,8 +35,8 @@ public class Seat {
         this.column = column;
     }
 
-    void setPurchased() {
-        this.purchased = true;
+    void setPurchased(boolean choice) {
+        this.purchased = choice;
     }
 }
 

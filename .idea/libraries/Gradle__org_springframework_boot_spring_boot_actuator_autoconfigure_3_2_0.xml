@@ -4,7 +4,11 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator-autoconfigure/3.2.0/9795fad75af563e062656b8b9417a3c3c56b0fd9/spring-boot-actuator-autoconfigure-3.2.0.jar!/" />
     </CLASSES>
-    <JAVADOC />
-    <SOURCES />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator-autoconfigure/3.2.0/4769ba7ba2b01665e2f5857f7ca9a179b9752f05/spring-boot-actuator-autoconfigure-3.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator-autoconfigure/3.2.0/2e628f733f898e630c242b19119ea8895c362ccb/spring-boot-actuator-autoconfigure-3.2.0-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

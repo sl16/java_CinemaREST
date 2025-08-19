@@ -4,7 +4,11 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator/3.2.0/bf991f1c5b3bee22a93c22641bb5a079f0a42963/spring-boot-actuator-3.2.0.jar!/" />
     </CLASSES>
-    <JAVADOC />
-    <SOURCES />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator/3.2.0/910d7ed727d0d30e3d71adcb2eeb70dad8dfd9b4/spring-boot-actuator-3.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator/3.2.0/6bff02aa1bdc7167a442de0e942e874501d60b08/spring-boot-actuator-3.2.0-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

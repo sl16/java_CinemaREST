@@ -54,7 +54,7 @@ public class CinemaRoom {
         if (seat.purchased) {
             throw new cinema.exception.SeatException("The ticket has been already purchased!");
         }
-        seat.setPurchased();
+        seat.setPurchased(true);
         return seat;
     }
 }
