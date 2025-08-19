@@ -45,4 +45,16 @@ public class CinemaRoom {
         }
 
     }
+
+    public Seat purchaseSeat(int row, int column) {
+        if (row < 1 || row > rows || column < 1 || column > columns) {
+            throw new cinema.exception.SeatException("The number of a row or a column is out of bounds!");
+        }
+        Seat seat = seats.get(row - 1).get(column - 1);
+        if (seat.purchased) {
+            throw new cinema.exception.SeatException("The ticket has been already purchased!");
+        }
+        seat.setPurchased();
+        return seat;
+    }
 }

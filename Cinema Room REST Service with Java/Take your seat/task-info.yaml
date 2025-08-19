@@ -27,6 +27,15 @@ files:
   - name: test/CinemaTests.java
     visible: false
     learner_created: false
+  - name: src/cinema/PurchaseController.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/exception/SeatException.java
+    visible: true
+    learner_created: true
 feedback_link: https://hyperskill.org/projects/189/stages/946/implement#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 19 Aug 2025 09:00:38 UTC"
+record: 2

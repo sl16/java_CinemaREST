@@ -25,6 +25,8 @@ public class Seat {
         return column;
     }
 
+    public int getPrice() { return price; }
+
     void setRow(int row) {
         this.row = row;
     }
@@ -33,13 +35,8 @@ public class Seat {
         this.column = column;
     }
 
-    int purchase() {
-        if (!purchased) {
-            this.purchased = true;
-            return (0);
-        }
-        else
-            return (1);
+    void setPurchased() {
+        this.purchased = true;
     }
 }
 

@@ -12,6 +12,27 @@ files:
   - name: test/CinemaTests.java
     visible: false
     learner_created: false
+  - name: src/cinema/Seat.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/SeatResponse.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/SeatController.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/PurchaseController.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/CinemaConfig.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/CinemaRoom.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/exception/SeatException.java
+    visible: true
+    learner_created: true
 feedback_link: https://hyperskill.org/projects/189/stages/947/implement#comment
 status: Unchecked
 record: -1
