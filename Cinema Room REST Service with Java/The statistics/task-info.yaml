@@ -12,6 +12,34 @@ files:
   - name: test/CinemaTests.java
     visible: false
     learner_created: false
+  - name: src/cinema/Seat.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/SeatResponse.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/SeatController.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/PurchaseController.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/CinemaConfig.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/CinemaRoom.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/exception/SeatException.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/StatsController.java
+    visible: true
+    learner_created: true
 feedback_link: https://hyperskill.org/projects/189/stages/948/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Tue, 19 Aug 2025 09:27:42 UTC"
 record: -1

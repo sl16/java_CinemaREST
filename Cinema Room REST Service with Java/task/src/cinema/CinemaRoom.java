@@ -57,4 +57,26 @@ public class CinemaRoom {
         seat.setPurchased(true);
         return seat;
     }
+
+    public int getCurrentIncome() {
+        return seats.stream()
+                .flatMap(row -> row.stream())
+                .filter(Seat::isPurchased)
+                .mapToInt(Seat::getPrice)
+                .sum();
+    }
+
+    public int getAvailableSeatsCount() {
+        return (int) seats.stream()
+                .flatMap(row -> row.stream())
+                .filter(seat -> !seat.isPurchased())
+                .count();
+    }
+
+    public int getPurchasedTicketsCount() {
+        return (int) seats.stream()
+                .flatMap(row -> row.stream())
+                .filter(Seat::isPurchased)
+                .count();
+    }
 }

@@ -38,5 +38,9 @@ public class Seat {
     void setPurchased(boolean choice) {
         this.purchased = choice;
     }
+
+    boolean isPurchased() {
+        return purchased;
+    }
 }
 
